@@ -48,7 +48,7 @@ a {
     position: relative;
     padding-top: 100px;
     padding-left: 100px;
-
+    height: 100vh;
 }
 
 .section-content {
@@ -121,9 +121,8 @@ a {
     background-image: url(../images/down-arrow.svg);
 }
 
-
-.chosen-select {
-    
+.modal {
+    color: black;
 }
 
 /*--------------------------------
