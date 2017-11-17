@@ -2,7 +2,7 @@
 // =============================================================
 var friends = [{
         "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "https://vignette.wikia.nocookie.net/carebears/images/a/af/Hopeful.gif/revision/latest/scale-to-width-down/180?cb=20121026144402",
         "scores": [
             "5",
             "1",
@@ -98,39 +98,39 @@ var friends = [{
     },
     {
         "name": "danny",
-        "photo": "photo",
+        "photo": "https://vignette.wikia.nocookie.net/carebears/images/4/41/Always_There.gif",
         "scores": [
             "3",
             "1",
             "2",
             "1",
+            "4",
+            "1",
+            "3",
             "1",
             "1",
-            "1",
-            "1",
-            "1",
-            "1"
+            "5"
         ]
     },
     {
-        "name": "danny",
-        "photo": "photo",
+        "name": "Clare B",
+        "photo": "https://vignette.wikia.nocookie.net/carebears/images/3/34/Smart_Heart.gif",
         "scores": [
             "3",
             "1",
             "2",
             "1",
+            "5",
             "1",
+            "3",
             "1",
-            "1",
-            "1",
-            "1",
+            "3",
             "1"
         ]
     },
     {
-        "name": "a",
-        "photo": "b",
+        "name": "Jon Smith",
+        "photo": "https://vignette.wikia.nocookie.net/carebears/images/a/af/Hopeful.gif",
         "scores": [
             "1",
             "1",

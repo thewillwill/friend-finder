@@ -5,16 +5,12 @@
 
 body {
     font-family: 'Archivo', sans-serif;
-    /*font-family: 'Heebo', sans-serif;*/
-    /*font-family: 'ABeeZee', sans-serif;*/
-    /*font-family: 'Hind Madurai', sans-serif;*/
-    /*font-family: 'Rubik', sans-serif;*/
     color: #FFF;
-    background: #292a2c;
+    background: #4584f1;
 }
 
 a {
-    color: grey;
+    color: darkgrey;
 }
 
 .
@@ -70,7 +66,7 @@ a {
 }
 
 .content-4180 {
-    background: url(../images/hero.png);
+    background: url(../images/bear_bg.png);
     background-size: 50%;
     background-position: right bottom;
     background-attachment: fixed;
@@ -78,25 +74,11 @@ a {
     /*min-height: 100%;*/
 }
 
-.social-links {
-    color: grey;
-}
-
 .big-text {
     font-size: 3em;
     display: inline;
 }
 
-.highlight {
-    color: black;
-    background: white;
-    padding: 2px;
-}
-
-.lined {
-    color: #72c2ff;
-    border-bottom: 1px dashed #fff;
-}
 
 .more-arrow {
     display: inline-block;

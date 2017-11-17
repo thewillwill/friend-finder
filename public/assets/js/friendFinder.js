@@ -51,16 +51,16 @@
 
             // Get the current URL
             var currentURL = window.location.origin;
+           
             // Post new User to the friends API route. 
-
             $.post("/api/friends", newUser,  function(data) {
               console.log('L225', 'data:', data)
 
-                // get the matching result
+                // get the matching result and put inside (hidden) modal
                 $("#matchName").text(data.name);
                 $('#matchImg').attr("src", data.photo);
 
-                // Show the model
+                // Display the result in the modal
                 $("#resultsModal").modal('toggle');
 
             });
